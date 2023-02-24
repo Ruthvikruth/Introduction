@@ -1,1 +1,1 @@
-# Introduction
+Hi. I am Ruthvik. I am currently pursuing 3rd year in B.Tech Computer Science and Business Systems at Rajalakshmi Engineering College, Chennai. I have completed my schooling in Velammal Matriculation Higher Secondary School, Chennai. I have a good understanding of C, C++, Java, Python, MySQL, HTML, JavaScript and GoLang. Apart from my technical skills I am also good at communicating and presentations. In my free time I like to play Chess while listening songs and also ride my bike. 
